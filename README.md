@@ -43,6 +43,9 @@ macOS Sequoia 15.2. Since I don't want to pay the ransom to greedy Apple for the
 unfortunately need to manually allow it in "Privacy & Security" 
 (your Mac will insist on deleting :)
 
+Please also make sure to mark it as executable:
+`chmod +x ./koji-stream-player`
+
 ![Gatekeeper](gfx/gatekeeper.png)
 
 ## Support
